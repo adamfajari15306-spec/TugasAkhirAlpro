@@ -51,4 +51,9 @@ Pada Bagian USER Terdapat Menu
 
 ============================================
 
+- Author : Fatih Thoriq Basuki, Bunga Aulia Raya, Dan Adam Sjach Najmi Fajari
+- Kelas  : 2B
+- Prodi  : Sistem Informasi
+- Mata Kuliah : Struktur Data dan Algoritma
+
 !!!  Selamat Mencoba :) !!!
